@@ -1,0 +1,813 @@
+{
+	"wood": [
+		{
+			"name": "Abura",
+			"color": "b17d60",
+		},
+		{
+			"name": "Afara",
+			"color": "d6ba8d",
+		},
+		{
+			"name": "African Blackwood",
+			"color": "2d2a26",
+		},
+		{
+			"name": "African Mahogany",
+			"color": "a47a5f",
+		},
+		{
+			"name": "African Walnut",
+			"color": "794b33",
+		},
+		{
+			"name": "Afrormosia",
+			"color": "be8b52",
+		},
+		{
+			"name": "Afzelia",
+			"color": "bd8759",
+		},
+		{
+			"name": "Amboyna",
+			"color": "733a2c",
+		},
+		{
+			"name": "Ambrosia Maple",
+			"color": "c7a477",
+		},
+		{
+			"name": "American Beech",
+			"color": "cfad8e",
+		},
+		{
+			"name": "American Elm",
+			"color": "caac86",
+		},
+		{
+			"name": "Andaman Padauk",
+			"color": "8c411f",
+		},
+		{
+			"name": "Anigre",
+			"color": "d5b082",
+		},
+		{
+			"name": "Apple",
+			"color": "b19171",
+		},
+		{
+			"name": "Argentine Lignum Vitae",
+			"color": "9e7c54",
+		},
+		{
+			"name": "Aromatic Red Cedar",
+			"color": "aa7b6e",
+		},
+		{
+			"name": "Ash",
+			"color": "c8a987",
+		},
+		{
+			"name": "Aspen",
+			"color": "d6af89",
+		},
+		{
+			"name": "Australian Blackwood",
+			"color": "8f665a",
+		},
+		{
+			"name": "Australian Cypress",
+			"color": "bd9c74",
+		},
+		{
+			"name": "Avodire",
+			"color": "ceb080",
+		},
+		{
+			"name": "Balsa",
+			"color": "e6d2c2",
+		},
+		{
+			"name": "Bamboo",
+			"color": "f7d895",
+		},
+		{
+			"name": "Basswood",
+			"color": "d9bc9f",
+		},
+		{
+			"name": "Birdseye Maple",
+			"color": "d29a62",
+		},
+		{
+			"name": "Black And White Ebony",
+			"color": "b99769",
+		},
+		{
+			"name": "Black Heartassafras",
+			"color": "86725a",
+		},
+		{
+			"name": "Black Mesquite",
+			"color": "765d4d",
+		},
+		{
+			"name": "Black Palm",
+			"color": "5d4f4a",
+		},
+		{
+			"name": "Black Walnut",
+			"color": "795640",
+		},
+		{
+			"name": "Black Willow",
+			"color": "d2ac7f",
+		},
+		{
+			"name": "Bocote",
+			"color": "645343",
+		},
+		{
+			"name": "Bosse",
+			"color": "b08869",
+		},
+		{
+			"name": "Box Elder",
+			"color": "f9e5bb",
+		},
+		{
+			"name": "Boxwood",
+			"color": "dbaf82",
+		},
+		{
+			"name": "Brazilian Lacewood",
+			"color": "bd9c81",
+		},
+		{
+			"name": "Brown Ebony",
+			"color": "7f644b",
+		},
+		{
+			"name": "Brownheart",
+			"color": "7b674f",
+		},
+		{
+			"name": "Brown Oak",
+			"color": "987e62",
+		},
+		{
+			"name": "Bubinga",
+			"color": "9c6f56",
+		},
+		{
+			"name": "Buckthorn",
+			"color": "bc864d",
+		},
+		{
+			"name": "Butternut",
+			"color": "d1ba9b",
+		},
+		{
+			"name": "Camphor",
+			"color": "bba58a",
+		},
+		{
+			"name": "Canarywood",
+			"color": "b97d40",
+		},
+		{
+			"name": "Carpathian Elm Burl",
+			"color": "7a593e",
+		},
+		{
+			"name": "Cebil",
+			"color": "bf9776",
+		},
+		{
+			"name": "Cedar Of Lebanon",
+			"color": "bf9b77",
+		},
+		{
+			"name": "Ceylonatinwood",
+			"color": "bd9566",
+		},
+		{
+			"name": "Chakte Viga",
+			"color": "916d49",
+		},
+		{
+			"name": "Chechen",
+			"color": "725640",
+		},
+		{
+			"name": "Chinaberry",
+			"color": "af8a69",
+		},
+		{
+			"name": "Claro Walnut",
+			"color": "8b705b",
+		},
+		{
+			"name": "Claro Walnut",
+			"color": "786757",
+		},
+		{
+			"name": "Cocobolo",
+			"color": "75392e",
+		},
+		{
+			"name": "Coffeetree",
+			"color": "daa271",
+		},
+		{
+			"name": "Crack Willow",
+			"color": "b8966b",
+		},
+		{
+			"name": "Cumaru",
+			"color": "946b54",
+		},
+		{
+			"name": "Curly Maple",
+			"color": "e4c1a1",
+		},
+		{
+			"name": "Cypress",
+			"color": "debf9b",
+		},
+		{
+			"name": "Dalmata",
+			"color": "6f5743",
+		},
+		{
+			"name": "Dogwood",
+			"color": "c59f8a",
+		},
+		{
+			"name": "Douglas Fir",
+			"color": "d8a876",
+		},
+		{
+			"name": "East Indian Rosewood",
+			"color": "665147",
+		},
+		{
+			"name": "Ebony",
+			"color": "3c3835",
+		},
+		{
+			"name": "English Elm",
+			"color": "d1a689",
+		},
+		{
+			"name": "English Holly",
+			"color": "d2c19f",
+		},
+		{
+			"name": "English Oak",
+			"color": "b69978",
+		},
+		{
+			"name": "English Walnut",
+			"color": "8f7860",
+		},
+		{
+			"name": "English Yew",
+			"color": "d79f7c",
+		},
+		{
+			"name": "European Alder",
+			"color": "d5a787",
+		},
+		{
+			"name": "European Ash",
+			"color": "eacbb1",
+		},
+		{
+			"name": "European Beech",
+			"color": "cda992",
+		},
+		{
+			"name": "European Larch",
+			"color": "c8a487",
+		},
+		{
+			"name": "European Lime",
+			"color": "e9ceb5",
+		},
+		{
+			"name": "Field Maple",
+			"color": "c3aa90",
+		},
+		{
+			"name": "Garapa",
+			"color": "bc9256",
+		},
+		{
+			"name": "Giant Chinkapin",
+			"color": "bd9375",
+		},
+		{
+			"name": "Goncalo Alves",
+			"color": "a16e47",
+		},
+		{
+			"name": "Goncalo Alves",
+			"color": "a9835f",
+		},
+		{
+			"name": "Granadillo",
+			"color": "6b4f41",
+		},
+		{
+			"name": "Hackberry",
+			"color": "eedbb6",
+		},
+		{
+			"name": "Hard Maple",
+			"color": "d4bb9c",
+		},
+		{
+			"name": "Holly",
+			"color": "f6e1b8",
+		},
+		{
+			"name": "Holm Oak",
+			"color": "b39c7d",
+		},
+		{
+			"name": "Honduran Mahogany",
+			"color": "ac7748",
+		},
+		{
+			"name": "Honey Locust",
+			"color": "c59a75",
+		},
+		{
+			"name": "Horse Chestnut",
+			"color": "f1d7b2",
+		},
+		{
+			"name": "Hububali",
+			"color": "8f7357",
+		},
+		{
+			"name": "Imbuya",
+			"color": "755f45",
+		},
+		{
+			"name": "Indian Anjan",
+			"color": "88664b",
+		},
+		{
+			"name": "Ipe",
+			"color": "6e5246",
+		},
+		{
+			"name": "Iroko",
+			"color": "c09b78",
+		},
+		{
+			"name": "Itin",
+			"color": "634a43",
+		},
+		{
+			"name": "Jarrah",
+			"color": "8c5c53",
+		},
+		{
+			"name": "Jatoba",
+			"color": "936949",
+		},
+		{
+			"name": "Jicarillo",
+			"color": "916d4f",
+		},
+		{
+			"name": "Katalox",
+			"color": "5b4641",
+		},
+		{
+			"name": "Kauri",
+			"color": "a28669",
+		},
+		{
+			"name": "Kiaat",
+			"color": "875e3f",
+		},
+		{
+			"name": "Kingwood",
+			"color": "5e4a45",
+		},
+		{
+			"name": "Koa",
+			"color": "b1836e",
+		},
+		{
+			"name": "Lacewood",
+			"color": "9a7357",
+		},
+		{
+			"name": "Lati",
+			"color": "d3a66d",
+		},
+		{
+			"name": "Lignum Vitae",
+			"color": "48372a",
+		},
+		{
+			"name": "London Plane",
+			"color": "c2987f",
+		},
+		{
+			"name": "Lyptus",
+			"color": "be9272",
+		},
+		{
+			"name": "Macassar Ebony",
+			"color": "39352e",
+		},
+		{
+			"name": "Machiche",
+			"color": "764a34",
+		},
+		{
+			"name": "Madrone",
+			"color": "d4b28e",
+		},
+		{
+			"name": "Magnolia",
+			"color": "b9ac96",
+		},
+		{
+			"name": "Makore",
+			"color": "aa7a5b",
+		},
+		{
+			"name": "Malaysian Blackwood",
+			"color": "454439",
+		},
+		{
+			"name": "Mango",
+			"color": "b89e77",
+		},
+		{
+			"name": "Mansonia",
+			"color": "8b7257",
+		},
+		{
+			"name": "Marblewood",
+			"color": "b68b6c",
+		},
+		{
+			"name": "Masur Birch",
+			"color": "c4a178",
+		},
+		{
+			"name": "Merbau",
+			"color": "765d48",
+		},
+		{
+			"name": "Monkeypod",
+			"color": "ba967f",
+		},
+		{
+			"name": "Monterey Cypress",
+			"color": "cda382",
+		},
+		{
+			"name": "Mora",
+			"color": "725f4e",
+		},
+		{
+			"name": "Mountain Ash",
+			"color": "b79576",
+		},
+		{
+			"name": "Movingui",
+			"color": "cea469",
+		},
+		{
+			"name": "Mun Ebony",
+			"color": "3c3932",
+		},
+		{
+			"name": "Myrtle",
+			"color": "a99070",
+		},
+		{
+			"name": "Narra ",
+			"color": "a6724b",
+		},
+		{
+			"name": "Northern White Cedar",
+			"color": "fcf0ca",
+		},
+		{
+			"name": "Obeche",
+			"color": "dcb98a",
+		},
+		{
+			"name": "Okoume",
+			"color": "9b7a64",
+		},
+		{
+			"name": "Olive",
+			"color": "a88767",
+		},
+		{
+			"name": "Olive Ash",
+			"color": "d0a991",
+		},
+		{
+			"name": "Orange Agate",
+			"color": "764c37",
+		},
+		{
+			"name": "Osage Orange",
+			"color": "d2ae63",
+		},
+		{
+			"name": "Osage Orange",
+			"color": "cfa14b",
+		},
+		{
+			"name": "Ovangkol",
+			"color": "97734f",
+		},
+		{
+			"name": "Padauk",
+			"color": "83422e",
+		},
+		{
+			"name": "Panga Panga",
+			"color": "6c5b4a",
+		},
+		{
+			"name": "Pau Ferro",
+			"color": "91694e",
+		},
+		{
+			"name": "Pau Rosa",
+			"color": "986f58",
+		},
+		{
+			"name": "Peroba Rosa",
+			"color": "bc7d5c",
+		},
+		{
+			"name": "Peruvian Walnut",
+			"color": "6a584a",
+		},
+		{
+			"name": "Pheasantwood",
+			"color": "5d4f3b",
+		},
+		{
+			"name": "Pink Ivory",
+			"color": "d47668",
+		},
+		{
+			"name": "Pistachio",
+			"color": "6d624e",
+		},
+		{
+			"name": "Plum",
+			"color": "a98862",
+		},
+		{
+			"name": "Ponderosa Pine",
+			"color": "f1dac0",
+		},
+		{
+			"name": "Primavera",
+			"color": "ca9f80",
+		},
+		{
+			"name": "Purpleheart Three Weeks",
+			"color": "8b5b60",
+		},
+		{
+			"name": "Pyinma",
+			"color": "927a63",
+		},
+		{
+			"name": "Quebracho",
+			"color": "99653a",
+		},
+		{
+			"name": "Queensland Walnut",
+			"color": "72604b",
+		},
+		{
+			"name": "Quilted Maple",
+			"color": "9c7550",
+		},
+		{
+			"name": "Quina",
+			"color": "956b58",
+		},
+		{
+			"name": "Red Alder",
+			"color": "d0ac83",
+		},
+		{
+			"name": "Red Gum",
+			"color": "7b705f",
+		},
+		{
+			"name": "Red Mulberry",
+			"color": "cfb07c",
+		},
+		{
+			"name": "Red Palm",
+			"color": "7a5a3d",
+		},
+		{
+			"name": "Redwood",
+			"color": "6c4734",
+		},
+		{
+			"name": "Rengas",
+			"color": "8c5f49",
+		},
+		{
+			"name": "Royal Paulownia",
+			"color": "d2b594",
+		},
+		{
+			"name": "Santos Mahogany",
+			"color": "805b4e",
+		},
+		{
+			"name": "Sapele",
+			"color": "9e7564",
+		},
+		{
+			"name": "Sassafras",
+			"color": "c6ac85",
+		},
+		{
+			"name": "Shagbark Hickory",
+			"color": "cfaf84",
+		},
+		{
+			"name": "She Oak",
+			"color": "a4714c",
+		},
+		{
+			"name": "Silky Oak",
+			"color": "a98264",
+		},
+		{
+			"name": "Silver Birch",
+			"color": "dbba97",
+		},
+		{
+			"name": "Sitkapruce",
+			"color": "f5d3a5",
+		},
+		{
+			"name": "Southern Blue Gum",
+			"color": "d5b28f",
+		},
+		{
+			"name": "Spalted Maple",
+			"color": "e6c7a3",
+		},
+		{
+			"name": "Spalted Tamarind",
+			"color": "f5d7a4",
+		},
+		{
+			"name": "Spanish Cedar",
+			"color": "be8b5e",
+		},
+		{
+			"name": "Sumac",
+			"color": "98855f",
+		},
+		{
+			"name": "Sweet Chestnut",
+			"color": "b79879",
+		},
+		{
+			"name": "Swiss Pear",
+			"color": "a47c66",
+		},
+		{
+			"name": "Sycamore",
+			"color": "ccb399",
+		},
+		{
+			"name": "Sycamore Maple",
+			"color": "dabfab",
+		},
+		{
+			"name": "Tanoak",
+			"color": "b09374",
+		},
+		{
+			"name": "Tatajuba",
+			"color": "be9462",
+		},
+		{
+			"name": "Teak",
+			"color": "8e7353",
+		},
+		{
+			"name": "Tiete Rosewood",
+			"color": "b2785a",
+		},
+		{
+			"name": "Tiger Caspi",
+			"color": "8f6b3e",
+		},
+		{
+			"name": "Timborana",
+			"color": "977253",
+		},
+		{
+			"name": "Tineo",
+			"color": "8b6d57",
+		},
+		{
+			"name": "Tulipwood",
+			"color": "b17960",
+		},
+		{
+			"name": "Utile",
+			"color": "906f58",
+		},
+		{
+			"name": "Verawood",
+			"color": "9e7f52",
+		},
+		{
+			"name": "Wamara",
+			"color": "583727",
+		},
+		{
+			"name": "Wenge",
+			"color": "544c42",
+		},
+		{
+			"name": "Western Red Cedar",
+			"color": "b77e4b",
+		},
+		{
+			"name": "Western White Pine",
+			"color": "dabd9c",
+		},
+		{
+			"name": "West Indianatinwood",
+			"color": "cba87c",
+		},
+		{
+			"name": "White Poplar",
+			"color": "caa985",
+		},
+		{
+			"name": "Wild Cherry",
+			"color": "cda57c",
+		},
+		{
+			"name": "Wormy Chestnut",
+			"color": "a4876b",
+		},
+		{
+			"name": "Wych Elm",
+			"color": "9d7b6b",
+		},
+		{
+			"name": "Yellow Birch",
+			"color": "deba9f",
+		},
+		{
+			"name": "Yellowheart",
+			"color": "daae6a",
+		},
+		{
+			"name": "Yellow Poplar",
+			"color": "f8e4ba",
+		},
+		{
+			"name": "Yucatan Rosewood",
+			"color": "896c51",
+		},
+		{
+			"name": "Zapote",
+			"color": "62493f",
+		},
+		{
+			"name": "Zebrawood",
+			"color": "d7b48a",
+		},
+		{
+			"name": "Ziricote",
+			"color": "5c4f43",
+		},
+	]
+}
+

@@ -1,0 +1,205 @@
+
+"Abura"	af7a5d
+"Afara"	dabe91
+"African Blackwood"	2d2a26
+"African Mahogany"	a47a5f
+"African Walnut"	794b33
+"Afrormosia"	bf8b52
+"Afzelia"	bc8758
+"Amboyna"	723a2c
+"Ambrosia Maple"	c7a477
+"American Beech"	ccaa8a
+"American Elm"	cbad87
+"Andaman Padauk"	8c411f
+"Anigre"	d6b083
+"Apple"	b49475
+"Argentine Lignum Vitae"	a38159
+"Aromatic Red Cedar"	aa7b6e
+"Ash"	cdae8c
+"Aspen"	d6af89
+"Australian Blackwood"	8b6357
+"Australian Cypress"	bc9c73
+"Avodire"	ceaf80
+"Balsa"	e5cfbc
+"Bamboo"	f7d895
+"Basswood"	d9bc9f
+"Birdseye Maple"	d29a62
+"Black And White Ebony"	b99769
+"Black Heartassafras"	87735b
+"Black Mesquite"	765d4d
+"Black Palm"	5c4d49
+"Black Walnut"	795540
+"Black Willow"	d0a97c
+"Bocote"	5c4c3d
+"Bosse"	af8767
+"Box Elder"	f9e5bb
+"Boxwood"	d7ab7e
+"Brazilian Lacewood"	b9987d
+"Brown Ebony"	7f644b
+"Brownheart"	7b674e
+"Brown Oak"	987e62
+"Bubinga"	9c6f56
+"Buckthorn"	bc864d
+"Butternut"	d0ba9b
+"Camphor"	bba68a
+"Canarywood"	ba7e40
+"Carpathian Elm Burl"	705037
+"Cebil"	bb9373
+"Cedar Of Lebanon"	c19e7a
+"Ceylonatinwood"	bd9566
+"Chakte Viga"	97724f
+"Chechen"	735740
+"Chinaberry"	ae8868
+"Claro Walnut"	927661
+"Claro Walnut"	776756
+"Cocobolo"	75392e
+"Coffeetree"	daa271
+"Crack Willow"	b8966c
+"Cumaru"	936954
+"Curly Maple"	e4c1a0
+"Cypress"	d8b894
+"Dalmata"	705844
+"Dogwood"	c5a08a
+"Douglas Fir"	d8a876
+"East Indian Rosewood"	5f4b44
+"Ebony"	3d3936
+"English Elm"	d1a789
+"English Holly"	e2ceac
+"English Oak"	b69977
+"English Walnut"	8b745b
+"English Yew"	d79f7c
+"European Alder"	d4a686
+"European Ash"	e5c6ad
+"European Beech"	cca892
+"European Larch"	c8a487
+"European Lime"	e9ceb5
+"Field Maple"	c2a88f
+"Garapa"	bc9256
+"Giant Chinkapin"	bf9578
+"Goncalo Alves"	a06e47
+"Goncalo Alves"	a9835f
+"Granadillo"	6d5042
+"Hackberry"	eedbb6
+"Hard Maple"	d4bb9c
+"Holly"	f6e1b8
+"Holm Oak"	ae9778
+"Honduran Mahogany"	ac7748
+"Honey Locust"	c59a75
+"Horse Chestnut"	f1d7b2
+"Hububali"	8f7357
+"Imbuya"	755f45
+"Indian Anjan"	87664c
+"Ipe"	6f5347
+"Iroko"	c09b78
+"Itin"	5f453f
+"Jarrah"	8c5b52
+"Jatoba"	926848
+"Jicarillo"	916d4f
+"Katalox"	5d4742
+"Kauri"	9e8164
+"Kiaat"	82593b
+"Kingwood"	5b4743
+"Koa"	b1836e
+"Lacewood"	997257
+"Lati"	d3a66d
+"Lignum Vitae"	49382b
+"London Plane"	c1987f
+"Lyptus"	c39877
+"Macassar Ebony"	39362f
+"Machiche"	754933
+"Madrone"	d4b28d
+"Magnolia"	b9ac96
+"Makore"	ac7b5b
+"Malaysian Blackwood"	434338
+"Mango"	b89d77
+"Mansonia"	917557
+"Marblewood"	b68b6c
+"Masur Birch"	c4a078
+"Merbau"	715944
+"Monkeypod"	ba967f
+"Monterey Cypress"	cda382
+"Mora"	715e4d
+"Mountain Ash"	b69475
+"Movingui"	cea469
+"Mun Ebony"	3c3a32
+"Myrtle"	a99070
+"Narra "	a6724b
+"Northern White Cedar"	edd4ac
+"Obeche"	dcb98b
+"Okoume"	9b7a64
+"Olive"	a78666
+"Olive Ash"	cfa891
+"Orange Agate"	774d37
+"Osage Orange"	d5b168
+"Osage Orange"	d0a24c
+"Ovangkol"	98734f
+"Padauk"	84432e
+"Panga Panga"	6d5b4b
+"Pau Ferro"	91694e
+"Pau Rosa"	986f57
+"Peroba Rosa"	c18160
+"Peruvian Walnut"	6d5a4d
+"Pheasantwood"	5e4f3b
+"Pink Ivory"	d07365
+"Pistachio"	6d624e
+"Plum"	a98862
+"Ponderosa Pine"	f1dac0
+"Primavera"	ca9f80
+"Purpleheart Three Weeks"	8b5c61
+"Pyinma"	927b64
+"Quebracho"	99653a
+"Queensland Walnut"	725f4b
+"Quilted Maple"	9d7550
+"Quina"	956b58
+"Red Alder"	d0ac83
+"Red Gum"	7c705f
+"Red Mulberry"	cdae7b
+"Red Palm"	78583c
+"Redwood"	674230
+"Rengas"	8c5f49
+"Royal Paulownia"	d0b493
+"Santos Mahogany"	7b574b
+"Sapele"	9b7261
+"Sassafras"	c6ac85
+"Shagbark Hickory"	cfaf84
+"She Oak"	a87550
+"Silky Oak"	ab8567
+"Silver Birch"	debe9c
+"Sitkapruce"	f5d3a5
+"Southern Blue Gum"	d6b290
+"Spalted Maple"	e6c7a3
+"Spalted Tamarind"	f5d7a4
+"Spanish Cedar"	be8b5e
+"Sumac"	96835d
+"Sweet Chestnut"	b79879
+"Swiss Pear"	a47c66
+"Sycamore"	cdb499
+"Sycamore Maple"	dbc0ac
+"Tanoak"	b09475
+"Tatajuba"	bc9260
+"Teak"	8e7253
+"Tiete Rosewood"	b2785a
+"Tiger Caspi"	906b3e
+"Timborana"	977253
+"Tineo"	8b6d57
+"Tulipwood"	b27a61
+"Utile"	917059
+"Verawood"	997b50
+"Wamara"	583726
+"Wenge"	514a40
+"Western Red Cedar"	bc8451
+"Western White Pine"	dbbf9f
+"West Indianatinwood"	cba97c
+"White Poplar"	c9a985
+"Wild Cherry"	c29a71
+"Wormy Chestnut"	a4876b
+"Wych Elm"	9e7b6c
+"Yellow Birch"	deba9f
+"Yellowheart"	daae6a
+"Yellow Poplar"	f8e4ba
+"Yucatan Rosewood"	86684e
+"Zapote"	62493f
+"Zebrawood"	d7b48a
+"Ziricote"	5c4f43
+
+

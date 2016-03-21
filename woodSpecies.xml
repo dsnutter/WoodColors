@@ -1,0 +1,811 @@
+<xml>
+	<species>
+		<name>Abura</name>
+		<color>ae7a5d</color>
+	</species>
+	<species>
+		<name>Afara</name>
+		<color>d6ba8d</color>
+	</species>
+	<species>
+		<name>African Blackwood</name>
+		<color>2f2b27</color>
+	</species>
+	<species>
+		<name>African Mahogany</name>
+		<color>a57b60</color>
+	</species>
+	<species>
+		<name>African Walnut</name>
+		<color>794b33</color>
+	</species>
+	<species>
+		<name>Afrormosia</name>
+		<color>be8b51</color>
+	</species>
+	<species>
+		<name>Afzelia</name>
+		<color>bc8758</color>
+	</species>
+	<species>
+		<name>Amboyna</name>
+		<color>723a2c</color>
+	</species>
+	<species>
+		<name>Ambrosia Maple</name>
+		<color>c8a477</color>
+	</species>
+	<species>
+		<name>American Beech</name>
+		<color>ccaa8a</color>
+	</species>
+	<species>
+		<name>American Elm</name>
+		<color>c9ab85</color>
+	</species>
+	<species>
+		<name>Andaman Padauk</name>
+		<color>8c411f</color>
+	</species>
+	<species>
+		<name>Anigre</name>
+		<color>d5b082</color>
+	</species>
+	<species>
+		<name>Apple</name>
+		<color>b19172</color>
+	</species>
+	<species>
+		<name>Argentine Lignum Vitae</name>
+		<color>a3815a</color>
+	</species>
+	<species>
+		<name>Aromatic Red Cedar</name>
+		<color>aa7b6e</color>
+	</species>
+	<species>
+		<name>Ash</name>
+		<color>c8a987</color>
+	</species>
+	<species>
+		<name>Aspen</name>
+		<color>d6af89</color>
+	</species>
+	<species>
+		<name>Australian Blackwood</name>
+		<color>8b6357</color>
+	</species>
+	<species>
+		<name>Australian Cypress</name>
+		<color>bd9c74</color>
+	</species>
+	<species>
+		<name>Avodire</name>
+		<color>ceb080</color>
+	</species>
+	<species>
+		<name>Balsa</name>
+		<color>e6d3c2</color>
+	</species>
+	<species>
+		<name>Bamboo</name>
+		<color>f7d895</color>
+	</species>
+	<species>
+		<name>Basswood</name>
+		<color>d8bc9e</color>
+	</species>
+	<species>
+		<name>Birdseye Maple</name>
+		<color>d29a62</color>
+	</species>
+	<species>
+		<name>Black And White Ebony</name>
+		<color>b89769</color>
+	</species>
+	<species>
+		<name>Black Heartassafras</name>
+		<color>86725a</color>
+	</species>
+	<species>
+		<name>Black Mesquite</name>
+		<color>765d4d</color>
+	</species>
+	<species>
+		<name>Black Palm</name>
+		<color>5d4f4a</color>
+	</species>
+	<species>
+		<name>Black Walnut</name>
+		<color>795640</color>
+	</species>
+	<species>
+		<name>Black Willow</name>
+		<color>d2ac7f</color>
+	</species>
+	<species>
+		<name>Bocote</name>
+		<color>5b4b3d</color>
+	</species>
+	<species>
+		<name>Bosse</name>
+		<color>b08869</color>
+	</species>
+	<species>
+		<name>Box Elder</name>
+		<color>f9e5bb</color>
+	</species>
+	<species>
+		<name>Boxwood</name>
+		<color>d7ab7e</color>
+	</species>
+	<species>
+		<name>Brazilian Lacewood</name>
+		<color>be9c81</color>
+	</species>
+	<species>
+		<name>Brown Ebony</name>
+		<color>7c6148</color>
+	</species>
+	<species>
+		<name>Brownheart</name>
+		<color>7b674e</color>
+	</species>
+	<species>
+		<name>Brown Oak</name>
+		<color>987e62</color>
+	</species>
+	<species>
+		<name>Bubinga</name>
+		<color>9c6f56</color>
+	</species>
+	<species>
+		<name>Buckthorn</name>
+		<color>bc874d</color>
+	</species>
+	<species>
+		<name>Butternut</name>
+		<color>d2bb9c</color>
+	</species>
+	<species>
+		<name>Camphor</name>
+		<color>bba68a</color>
+	</species>
+	<species>
+		<name>Canarywood</name>
+		<color>b97d40</color>
+	</species>
+	<species>
+		<name>Carpathian Elm Burl</name>
+		<color>78583d</color>
+	</species>
+	<species>
+		<name>Cebil</name>
+		<color>bf9776</color>
+	</species>
+	<species>
+		<name>Cedar Of Lebanon</name>
+		<color>be9b77</color>
+	</species>
+	<species>
+		<name>Ceylonatinwood</name>
+		<color>bd9566</color>
+	</species>
+	<species>
+		<name>Chakte Viga</name>
+		<color>97724e</color>
+	</species>
+	<species>
+		<name>Chechen</name>
+		<color>735740</color>
+	</species>
+	<species>
+		<name>Chinaberry</name>
+		<color>af8969</color>
+	</species>
+	<species>
+		<name>Claro Walnut</name>
+		<color>927661</color>
+	</species>
+	<species>
+		<name>Claro Walnut</name>
+		<color>786757</color>
+	</species>
+	<species>
+		<name>Cocobolo</name>
+		<color>75392e</color>
+	</species>
+	<species>
+		<name>Coffeetree</name>
+		<color>daa271</color>
+	</species>
+	<species>
+		<name>Crack Willow</name>
+		<color>b8966b</color>
+	</species>
+	<species>
+		<name>Cumaru</name>
+		<color>946b54</color>
+	</species>
+	<species>
+		<name>Curly Maple</name>
+		<color>e4c1a0</color>
+	</species>
+	<species>
+		<name>Cypress</name>
+		<color>debf9b</color>
+	</species>
+	<species>
+		<name>Dalmata</name>
+		<color>705844</color>
+	</species>
+	<species>
+		<name>Dogwood</name>
+		<color>c5a08a</color>
+	</species>
+	<species>
+		<name>Douglas Fir</name>
+		<color>d8a776</color>
+	</species>
+	<species>
+		<name>East Indian Rosewood</name>
+		<color>675146</color>
+	</species>
+	<species>
+		<name>Ebony</name>
+		<color>3d3937</color>
+	</species>
+	<species>
+		<name>English Elm</name>
+		<color>d1a789</color>
+	</species>
+	<species>
+		<name>English Holly</name>
+		<color>dfcba9</color>
+	</species>
+	<species>
+		<name>English Oak</name>
+		<color>b69978</color>
+	</species>
+	<species>
+		<name>English Walnut</name>
+		<color>8f7860</color>
+	</species>
+	<species>
+		<name>English Yew</name>
+		<color>d79f7c</color>
+	</species>
+	<species>
+		<name>European Alder</name>
+		<color>d5a787</color>
+	</species>
+	<species>
+		<name>European Ash</name>
+		<color>eacbb2</color>
+	</species>
+	<species>
+		<name>European Beech</name>
+		<color>cda992</color>
+	</species>
+	<species>
+		<name>European Larch</name>
+		<color>c8a487</color>
+	</species>
+	<species>
+		<name>European Lime</name>
+		<color>e9ceb5</color>
+	</species>
+	<species>
+		<name>Field Maple</name>
+		<color>c2a88f</color>
+	</species>
+	<species>
+		<name>Garapa</name>
+		<color>c0965a</color>
+	</species>
+	<species>
+		<name>Giant Chinkapin</name>
+		<color>c39a7f</color>
+	</species>
+	<species>
+		<name>Goncalo Alves</name>
+		<color>a16e47</color>
+	</species>
+	<species>
+		<name>Goncalo Alves</name>
+		<color>a9835e</color>
+	</species>
+	<species>
+		<name>Granadillo</name>
+		<color>6d5142</color>
+	</species>
+	<species>
+		<name>Hackberry</name>
+		<color>eedcb6</color>
+	</species>
+	<species>
+		<name>Hard Maple</name>
+		<color>d4bc9c</color>
+	</species>
+	<species>
+		<name>Holly</name>
+		<color>f6e1b8</color>
+	</species>
+	<species>
+		<name>Holm Oak</name>
+		<color>ae9778</color>
+	</species>
+	<species>
+		<name>Honduran Mahogany</name>
+		<color>b27e4f</color>
+	</species>
+	<species>
+		<name>Honey Locust</name>
+		<color>c59a75</color>
+	</species>
+	<species>
+		<name>Horse Chestnut</name>
+		<color>f1d7b2</color>
+	</species>
+	<species>
+		<name>Hububali</name>
+		<color>8f7357</color>
+	</species>
+	<species>
+		<name>Imbuya</name>
+		<color>755f45</color>
+	</species>
+	<species>
+		<name>Indian Anjan</name>
+		<color>87664c</color>
+	</species>
+	<species>
+		<name>Ipe</name>
+		<color>73564a</color>
+	</species>
+	<species>
+		<name>Iroko</name>
+		<color>c09b78</color>
+	</species>
+	<species>
+		<name>Itin</name>
+		<color>5f463f</color>
+	</species>
+	<species>
+		<name>Jarrah</name>
+		<color>8c5a4f</color>
+	</species>
+	<species>
+		<name>Jatoba</name>
+		<color>936949</color>
+	</species>
+	<species>
+		<name>Jicarillo</name>
+		<color>916d4f</color>
+	</species>
+	<species>
+		<name>Katalox</name>
+		<color>5c4641</color>
+	</species>
+	<species>
+		<name>Kauri</name>
+		<color>9f8164</color>
+	</species>
+	<species>
+		<name>Kiaat</name>
+		<color>885e3f</color>
+	</species>
+	<species>
+		<name>Kingwood</name>
+		<color>5d4944</color>
+	</species>
+	<species>
+		<name>Koa</name>
+		<color>b1836e</color>
+	</species>
+	<species>
+		<name>Lacewood</name>
+		<color>9a7358</color>
+	</species>
+	<species>
+		<name>Lati</name>
+		<color>d3a66d</color>
+	</species>
+	<species>
+		<name>Lignum Vitae</name>
+		<color>453427</color>
+	</species>
+	<species>
+		<name>London Plane</name>
+		<color>c1987e</color>
+	</species>
+	<species>
+		<name>Lyptus</name>
+		<color>c39777</color>
+	</species>
+	<species>
+		<name>Macassar Ebony</name>
+		<color>39362f</color>
+	</species>
+	<species>
+		<name>Machiche</name>
+		<color>764a34</color>
+	</species>
+	<species>
+		<name>Madrone</name>
+		<color>cfae89</color>
+	</species>
+	<species>
+		<name>Magnolia</name>
+		<color>b9ac96</color>
+	</species>
+	<species>
+		<name>Makore</name>
+		<color>aa7b5b</color>
+	</species>
+	<species>
+		<name>Malaysian Blackwood</name>
+		<color>454439</color>
+	</species>
+	<species>
+		<name>Mango</name>
+		<color>b89e77</color>
+	</species>
+	<species>
+		<name>Mansonia</name>
+		<color>8b7155</color>
+	</species>
+	<species>
+		<name>Marblewood</name>
+		<color>b68b6c</color>
+	</species>
+	<species>
+		<name>Masur Birch</name>
+		<color>c4a178</color>
+	</species>
+	<species>
+		<name>Merbau</name>
+		<color>715944</color>
+	</species>
+	<species>
+		<name>Monkeypod</name>
+		<color>ba967f</color>
+	</species>
+	<species>
+		<name>Monterey Cypress</name>
+		<color>cda382</color>
+	</species>
+	<species>
+		<name>Mora</name>
+		<color>725e4d</color>
+	</species>
+	<species>
+		<name>Mountain Ash</name>
+		<color>b79576</color>
+	</species>
+	<species>
+		<name>Movingui</name>
+		<color>cfa46a</color>
+	</species>
+	<species>
+		<name>Mun Ebony</name>
+		<color>3c3a32</color>
+	</species>
+	<species>
+		<name>Myrtle</name>
+		<color>ad9472</color>
+	</species>
+	<species>
+		<name>Narra </name>
+		<color>a7724b</color>
+	</species>
+	<species>
+		<name>Northern White Cedar</name>
+		<color>fbf0ca</color>
+	</species>
+	<species>
+		<name>Obeche</name>
+		<color>dcba8b</color>
+	</species>
+	<species>
+		<name>Okoume</name>
+		<color>9a7a63</color>
+	</species>
+	<species>
+		<name>Olive</name>
+		<color>a78666</color>
+	</species>
+	<species>
+		<name>Olive Ash</name>
+		<color>cfa891</color>
+	</species>
+	<species>
+		<name>Orange Agate</name>
+		<color>774d37</color>
+	</species>
+	<species>
+		<name>Osage Orange</name>
+		<color>d5b168</color>
+	</species>
+	<species>
+		<name>Osage Orange</name>
+		<color>cc9e48</color>
+	</species>
+	<species>
+		<name>Ovangkol</name>
+		<color>97734f</color>
+	</species>
+	<species>
+		<name>Padauk</name>
+		<color>83422e</color>
+	</species>
+	<species>
+		<name>Panga Panga</name>
+		<color>6e5c4b</color>
+	</species>
+	<species>
+		<name>Pau Ferro</name>
+		<color>91694e</color>
+	</species>
+	<species>
+		<name>Pau Rosa</name>
+		<color>936851</color>
+	</species>
+	<species>
+		<name>Peroba Rosa</name>
+		<color>c08261</color>
+	</species>
+	<species>
+		<name>Peruvian Walnut</name>
+		<color>6b594c</color>
+	</species>
+	<species>
+		<name>Pheasantwood</name>
+		<color>5e4f3c</color>
+	</species>
+	<species>
+		<name>Pink Ivory</name>
+		<color>d17365</color>
+	</species>
+	<species>
+		<name>Pistachio</name>
+		<color>6e624e</color>
+	</species>
+	<species>
+		<name>Plum</name>
+		<color>a98762</color>
+	</species>
+	<species>
+		<name>Ponderosa Pine</name>
+		<color>f1dac0</color>
+	</species>
+	<species>
+		<name>Primavera</name>
+		<color>ca9f80</color>
+	</species>
+	<species>
+		<name>Purpleheart Three Weeks</name>
+		<color>8b5b60</color>
+	</species>
+	<species>
+		<name>Pyinma</name>
+		<color>8c7761</color>
+	</species>
+	<species>
+		<name>Quebracho</name>
+		<color>945f35</color>
+	</species>
+	<species>
+		<name>Queensland Walnut</name>
+		<color>72604b</color>
+	</species>
+	<species>
+		<name>Quilted Maple</name>
+		<color>9c7550</color>
+	</species>
+	<species>
+		<name>Quina</name>
+		<color>966b58</color>
+	</species>
+	<species>
+		<name>Red Alder</name>
+		<color>d1ad83</color>
+	</species>
+	<species>
+		<name>Red Gum</name>
+		<color>7e7361</color>
+	</species>
+	<species>
+		<name>Red Mulberry</name>
+		<color>cdae7b</color>
+	</species>
+	<species>
+		<name>Red Palm</name>
+		<color>78583c</color>
+	</species>
+	<species>
+		<name>Redwood</name>
+		<color>664130</color>
+	</species>
+	<species>
+		<name>Rengas</name>
+		<color>8c5f49</color>
+	</species>
+	<species>
+		<name>Royal Paulownia</name>
+		<color>d4b798</color>
+	</species>
+	<species>
+		<name>Santos Mahogany</name>
+		<color>7c584c</color>
+	</species>
+	<species>
+		<name>Sapele</name>
+		<color>a37968</color>
+	</species>
+	<species>
+		<name>Sassafras</name>
+		<color>c9b088</color>
+	</species>
+	<species>
+		<name>Shagbark Hickory</name>
+		<color>cfaf84</color>
+	</species>
+	<species>
+		<name>She Oak</name>
+		<color>a4714d</color>
+	</species>
+	<species>
+		<name>Silky Oak</name>
+		<color>ab8567</color>
+	</species>
+	<species>
+		<name>Silver Birch</name>
+		<color>ddbd9b</color>
+	</species>
+	<species>
+		<name>Sitkapruce</name>
+		<color>f5d2a4</color>
+	</species>
+	<species>
+		<name>Southern Blue Gum</name>
+		<color>d6b290</color>
+	</species>
+	<species>
+		<name>Spalted Maple</name>
+		<color>e6c7a3</color>
+	</species>
+	<species>
+		<name>Spalted Tamarind</name>
+		<color>f5d7a4</color>
+	</species>
+	<species>
+		<name>Spanish Cedar</name>
+		<color>be8b5e</color>
+	</species>
+	<species>
+		<name>Sumac</name>
+		<color>96835d</color>
+	</species>
+	<species>
+		<name>Sweet Chestnut</name>
+		<color>b69878</color>
+	</species>
+	<species>
+		<name>Swiss Pear</name>
+		<color>a47c66</color>
+	</species>
+	<species>
+		<name>Sycamore</name>
+		<color>cdb399</color>
+	</species>
+	<species>
+		<name>Sycamore Maple</name>
+		<color>ddc2af</color>
+	</species>
+	<species>
+		<name>Tanoak</name>
+		<color>b09474</color>
+	</species>
+	<species>
+		<name>Tatajuba</name>
+		<color>be9361</color>
+	</species>
+	<species>
+		<name>Teak</name>
+		<color>8e7353</color>
+	</species>
+	<species>
+		<name>Tiete Rosewood</name>
+		<color>b3785b</color>
+	</species>
+	<species>
+		<name>Tiger Caspi</name>
+		<color>8f6b3e</color>
+	</species>
+	<species>
+		<name>Timborana</name>
+		<color>977253</color>
+	</species>
+	<species>
+		<name>Tineo</name>
+		<color>8b6d57</color>
+	</species>
+	<species>
+		<name>Tulipwood</name>
+		<color>b17960</color>
+	</species>
+	<species>
+		<name>Utile</name>
+		<color>907059</color>
+	</species>
+	<species>
+		<name>Verawood</name>
+		<color>997b4f</color>
+	</species>
+	<species>
+		<name>Wamara</name>
+		<color>583726</color>
+	</species>
+	<species>
+		<name>Wenge</name>
+		<color>514a40</color>
+	</species>
+	<species>
+		<name>Western Red Cedar</name>
+		<color>b77e4a</color>
+	</species>
+	<species>
+		<name>Western White Pine</name>
+		<color>dbc0a0</color>
+	</species>
+	<species>
+		<name>West Indianatinwood</name>
+		<color>cba87c</color>
+	</species>
+	<species>
+		<name>White Poplar</name>
+		<color>c9a984</color>
+	</species>
+	<species>
+		<name>Wild Cherry</name>
+		<color>c79f76</color>
+	</species>
+	<species>
+		<name>Wormy Chestnut</name>
+		<color>a4876b</color>
+	</species>
+	<species>
+		<name>Wych Elm</name>
+		<color>9e7b6b</color>
+	</species>
+	<species>
+		<name>Yellow Birch</name>
+		<color>deba9f</color>
+	</species>
+	<species>
+		<name>Yellowheart</name>
+		<color>dbaf6b</color>
+	</species>
+	<species>
+		<name>Yellow Poplar</name>
+		<color>f8e4ba</color>
+	</species>
+	<species>
+		<name>Yucatan Rosewood</name>
+		<color>86684e</color>
+	</species>
+	<species>
+		<name>Zapote</name>
+		<color>624a40</color>
+	</species>
+	<species>
+		<name>Zebrawood</name>
+		<color>d7b48a</color>
+	</species>
+	<species>
+		<name>Ziricote</name>
+		<color>5c4f43</color>
+	</species>
+</xml>
+
